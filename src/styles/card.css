@@ -1,0 +1,32 @@
+.card {
+  max-width: 200px;
+  font-size: 13px;
+  line-height: 1.7;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.card img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.card span {
+  font-size: 14px;
+  color: black;
+}
+.price {
+  font-weight: bold;
+}
+
+.card .padge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #222;
+  padding: 2px 8px;
+  font-size: 10px;
+  font-weight: bold;
+  border-radius: 4px;
+}

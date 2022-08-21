@@ -1,0 +1,8 @@
+.nav-bar {
+  padding: 20px 50px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 10px;
+}
+
+.nav-bar .nav-logo {
+  max-width: 110px;
+}
